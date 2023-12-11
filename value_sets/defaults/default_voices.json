@@ -1,0 +1,185 @@
+{
+    "All Valid Voice Options": [
+        "Bear_1",
+        "Bear_1_Eng",
+        "Bear_2",
+        "Bear_2_Eng",
+        "Bear_3",
+        "BossBully",
+        "BossGluhar",
+        "BossSanitar",
+        "Scav_1",
+        "Scav_2",
+        "Scav_3",
+        "Scav_4",
+        "Scav_5",
+        "Scav_6",
+        "Usec_1",
+        "Usec_2",
+        "Usec_3",
+        "Usec_4",
+        "Usec_5",
+        "BossBigPipe",
+        "BossBirdEye",
+        "BossKilla",
+        "BossKnight",
+        "BossTagilla",
+        "SectantPriest",
+        "SectantWarrior"
+    ],
+    "bots": {
+        "normalScavs": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "sniperScavs": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "taggedAndCursedScavs": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "bear": [
+            "Bear_1",
+            "Bear_1_Eng",
+            "Bear_2",
+            "Bear_2_Eng",
+            "Bear_3"
+        ],
+        "usec": [
+            "Usec_1",
+            "Usec_2",
+            "Usec_3",
+            "Usec_4",
+            "Usec_5"
+        ],
+        "reshala": [
+            "BossBully"
+        ],
+        "reshalaFollowers": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "gluhar": [
+            "BossGluhar"
+        ],
+        "gluharFollowerAssault": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "gluharFollowerScout": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "gluharFollowerSecurity": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "gluharFollowerSnipe": [],
+        "sanitar": [
+            "BossSanitar"
+        ],
+        "sanitarFollowers": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "shturman": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "shturmanFollowers": [
+            "Scav_1",
+            "Scav_2",
+            "Scav_3",
+            "Scav_4",
+            "Scav_5",
+            "Scav_6"
+        ],
+        "killa": [
+            "BossKilla"
+        ],
+        "tagilla": [
+            "BossTagilla"
+        ],
+        "knight": [
+            "BossKnight"
+        ],
+        "bigpipe": [
+            "BossBigPipe"
+        ],
+        "birdeye": [
+            "BossBirdEye"
+        ],
+        "santa": [
+            "SectantPriest"
+        ],
+        "cultistPriest": [
+            "SectantPriest"
+        ],
+        "cultistFollowers": [
+            "SectantWarrior"
+        ],
+        "raiders": [
+            "Usec_1",
+            "Scav_6",
+            "Usec_2",
+            "Usec_3",
+            "Scav_1",
+            "Scav_2",
+            "Bear_2",
+            "Scav_5",
+            "Scav_4",
+            "Bear_3",
+            "Scav_3",
+            "Bear_1"
+        ],
+        "rogues": [
+            "Usec_3",
+            "Usec_1",
+            "Usec_2"
+        ],
+        "zryachiy": [
+            "SectantPriest"
+        ],
+        "zryachiyFollowers": [
+            "SectantPriest"
+        ]
+    }
+}

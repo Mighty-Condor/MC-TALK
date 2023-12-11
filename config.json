@@ -1,0 +1,173 @@
+{
+    "debug": true,
+    "valid_options_frequency": [
+        "default",
+        "off",
+        "low",
+        "normal",
+        "high",
+        "custom",
+        "fully_custom"
+    ],
+    "valid_options_voice": [
+        "default",
+        "custom"
+    ],
+    "config": {
+        "normalScavs": 
+        {
+            "frequency":    "off",
+            "voice":        "default"
+        },
+        "sniperScavs": 
+        {
+            "frequency":    "off",
+            "voice":        "default"
+        },
+        "taggedAndCursedScavs": 
+        {
+            "frequency":    "off",
+            "voice":        "default"
+        },
+        "bear": 
+        {
+            "frequency":    "high",
+            "voice":        "default"
+        },
+        "usec": 
+        {
+            "frequency":    "high",
+            "voice":        "default"
+        },
+        "reshala": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "reshalaFollowers": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "gluhar": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "gluharFollowerAssault": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "gluharFollowerScout": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "gluharFollowerSecurity": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "gluharFollowerSnipe": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "sanitar": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "sanitarFollowers": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "shturman": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "shturmanFollowers": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "killa": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "tagilla": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "knight": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "bigpipe": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "birdeye": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "santa": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "cultistPriest": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "cultistFollowers": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "raiders": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "rogues": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "zryachiy": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "zryachiyFollowers": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "arenafighter": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "arenafighterevent": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        },
+        "crazyassault": 
+        {
+            "frequency":    "default",
+            "voice":        "default"
+        }
+    }
+}

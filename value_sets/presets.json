@@ -1,0 +1,62 @@
+{
+    "off": {
+        "CAN_TALK": false,
+        "TALK_WITH_QUERY": false,
+        "GROUP_ANY_PHRASE_DELAY": 999999,
+        "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+        "TALK_DELAY": 999999.1,
+        "TALK_DELAY_BIG": 999999.1,
+        "MIN_TALK_DELAY": 999999,
+        "MIN_DIST_TO_CLOSE_TALK": 5,
+        "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+        "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 0
+    },
+    "low": {
+        "CAN_TALK": true,
+        "TALK_WITH_QUERY": false,
+        "GROUP_ANY_PHRASE_DELAY": 30,
+        "GROUP_EXACTLY_PHRASE_DELAY": 55,
+        "TALK_DELAY": 30,
+        "TALK_DELAY_BIG": 75,
+        "MIN_TALK_DELAY": 55,
+        "MIN_DIST_TO_CLOSE_TALK": 3,
+        "MIN_DIST_TO_CLOSE_TALK_SQR": 9,
+        "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 35
+    },
+    "normal": {
+        "CAN_TALK": true,
+        "TALK_WITH_QUERY": false,
+        "GROUP_ANY_PHRASE_DELAY": 10,
+        "GROUP_EXACTLY_PHRASE_DELAY": 25,
+        "TALK_DELAY": 10,
+        "TALK_DELAY_BIG": 45.1,
+        "MIN_TALK_DELAY": 35,
+        "MIN_DIST_TO_CLOSE_TALK": 5,
+        "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+        "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 65
+    },
+    "high": {
+        "CAN_TALK": true,
+        "TALK_WITH_QUERY": true,
+        "GROUP_ANY_PHRASE_DELAY": 1,
+        "GROUP_EXACTLY_PHRASE_DELAY": 2,
+        "TALK_DELAY": 1.1,
+        "TALK_DELAY_BIG": 10.1,
+        "MIN_TALK_DELAY": 15,
+        "MIN_DIST_TO_CLOSE_TALK": 5,
+        "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+        "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 100
+    },
+    "custom": {
+        "CAN_TALK": true,
+        "TALK_WITH_QUERY": false,
+        "GROUP_ANY_PHRASE_DELAY": 20,
+        "GROUP_EXACTLY_PHRASE_DELAY": 45,
+        "TALK_DELAY": 30,
+        "TALK_DELAY_BIG": 45,
+        "MIN_TALK_DELAY": 90,
+        "MIN_DIST_TO_CLOSE_TALK": 75,
+        "MIN_DIST_TO_CLOSE_TALK_SQR": 5625,
+        "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 0
+    }
+}

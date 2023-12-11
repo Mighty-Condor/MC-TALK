@@ -1,0 +1,1552 @@
+{
+    "arenafighter": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "arenafighterevent": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "normalScavs": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 24,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 24,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": -1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "bear": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 15.1,
+            "TALK_DELAY_BIG": 25.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": false,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 120,
+            "TALK_DELAY_BIG": 240,
+            "MIN_TALK_DELAY": 90,
+            "MIN_DIST_TO_CLOSE_TALK": 75,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 5625,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": false,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 120,
+            "TALK_DELAY_BIG": 240,
+            "MIN_TALK_DELAY": 90,
+            "MIN_DIST_TO_CLOSE_TALK": 75,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 5625,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 15.1,
+            "TALK_DELAY_BIG": 25.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "reshala": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "gluhar": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "killa": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "knight": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "shturman": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "sanitar": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "tagilla": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "zryachiy": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "crazyassault": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "taggedAndCursedScavs": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 4,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 4,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 4,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": -1,
+            "GROUP_EXACTLY_PHRASE_DELAY": -1,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "rogues": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "bigpipe": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "birdeye": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "reshalaFollowers": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "gluharFollowerAssault": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "gluharFollowerScout": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "gluharFollowerSecurity": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "gluharFollowerSnipe": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20.0,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20.0,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35.0,
+            "MIN_DIST_TO_CLOSE_TALK": 5.0,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25.0,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20.0,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20.0,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35.0,
+            "MIN_DIST_TO_CLOSE_TALK": 5.0,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25.0,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20.0,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20.0,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35.0,
+            "MIN_DIST_TO_CLOSE_TALK": 5.0,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25.0,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20.0,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20.0,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35.0,
+            "MIN_DIST_TO_CLOSE_TALK": 5.0,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25.0,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "shturmanFollowers": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 55.1,
+            "MIN_TALK_DELAY": 50,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "sanitarFollowers": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 30,
+            "TALK_DELAY": 31.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "zryachiyFollowers": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "santa": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 20,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "sniperScavs": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": -1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": -1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": -1,
+            "GROUP_EXACTLY_PHRASE_DELAY": 24,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": -1,
+            "GROUP_EXACTLY_PHRASE_DELAY": -1,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 15.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "raiders": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 5,
+            "GROUP_EXACTLY_PHRASE_DELAY": 20,
+            "TALK_DELAY": 1.1,
+            "TALK_DELAY_BIG": 45.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "cultistPriest": {
+        "easy": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "cultistFollowers": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 999999,
+            "GROUP_EXACTLY_PHRASE_DELAY": 999999,
+            "TALK_DELAY": 999999.1,
+            "TALK_DELAY_BIG": 999999.1,
+            "MIN_TALK_DELAY": 999999,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    },
+    "usec": {
+        "easy": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 15.1,
+            "TALK_DELAY_BIG": 25.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "hard": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": false,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 120,
+            "TALK_DELAY_BIG": 240,
+            "MIN_TALK_DELAY": 90,
+            "MIN_DIST_TO_CLOSE_TALK": 75,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 5625,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "impossible": {
+            "CAN_TALK": false,
+            "TALK_WITH_QUERY": false,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 120,
+            "TALK_DELAY_BIG": 240,
+            "MIN_TALK_DELAY": 90,
+            "MIN_DIST_TO_CLOSE_TALK": 75,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 5625,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        },
+        "normal": {
+            "CAN_TALK": true,
+            "TALK_WITH_QUERY": true,
+            "GROUP_ANY_PHRASE_DELAY": 45,
+            "GROUP_EXACTLY_PHRASE_DELAY": 60,
+            "TALK_DELAY": 15.1,
+            "TALK_DELAY_BIG": 25.1,
+            "MIN_TALK_DELAY": 35,
+            "MIN_DIST_TO_CLOSE_TALK": 5,
+            "MIN_DIST_TO_CLOSE_TALK_SQR": 25,
+            "CHANCE_TO_PLAY_VOICE_WHEN_CLOSE": 50
+        }
+    }
+}
